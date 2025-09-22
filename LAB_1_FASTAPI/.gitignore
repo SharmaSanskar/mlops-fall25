@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files
+# *.pkl
+# *.pickle
+# *.joblib
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
