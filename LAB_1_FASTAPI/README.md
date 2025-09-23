@@ -73,3 +73,8 @@ The dataset contains video game sales data with features:
 ## Model
 
 Uses Random Forest Regressor to predict global sales based on the input features.
+
+## Screenshots
+
+<img width="1512" height="777" alt="docs" src="https://github.com/user-attachments/assets/ff7174b9-38b8-4b21-9b12-7b28613d037b" />
+<img width="1130" height="943" alt="api_response" src="https://github.com/user-attachments/assets/f354ceff-07f0-4240-ac04-4b95a531266b" />
