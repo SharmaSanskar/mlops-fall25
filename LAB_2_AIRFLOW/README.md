@@ -9,6 +9,14 @@ As an additional exercise, a simple demonstration DAG (`demo_dag.py`) has been c
 
 This demo provides a practical introduction to Airflow concepts before diving into the ML pipeline implementation.
 
+## Screenshots
+
+<img width="1512" height="946" alt="Screenshot 2025-10-06 at 6 22 16 PM" src="https://github.com/user-attachments/assets/890afe61-4549-457e-aafc-5902c0784157" />
+<img width="1512" height="944" alt="Screenshot 2025-10-06 at 6 22 52 PM" src="https://github.com/user-attachments/assets/024a34bc-05c3-456e-ae0a-5629a5160970" />
+<img width="1512" height="941" alt="Screenshot 2025-10-06 at 6 23 18 PM" src="https://github.com/user-attachments/assets/f73de1d6-05e5-456f-ba4f-ab6a525f9a73" />
+<img width="1510" height="944" alt="Screenshot 2025-10-06 at 6 23 44 PM" src="https://github.com/user-attachments/assets/5eda5267-6498-4a1a-989a-cb26e7ad1e17" />
+<img width="1509" height="943" alt="Screenshot 2025-10-06 at 6 24 23 PM" src="https://github.com/user-attachments/assets/39d8739c-7a9f-4357-8752-504a94050f8f" />
+
 ---
 
 - In order to install Airflow using docker you can watch our [Airflow Lab1 Tutorial Video](https://youtu.be/exFSeGUbn4Q?feature=shared)
