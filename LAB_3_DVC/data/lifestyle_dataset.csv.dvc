@@ -1,0 +1,5 @@
+outs:
+- md5: 7b5358a3af5823d16d6d7c51297163df
+  size: 267696
+  hash: md5
+  path: lifestyle_dataset.csv

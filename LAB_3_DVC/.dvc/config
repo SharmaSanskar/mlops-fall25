@@ -1,0 +1,5 @@
+[core]
+    remote = lab3
+['remote "lab3"']
+    url = gs://sanskar-dvc-lab-bucket
+    credentialpath = /Users/sanskar/Downloads/lab-3-dvc-c643f7ceb450.json
