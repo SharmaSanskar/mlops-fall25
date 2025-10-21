@@ -5,11 +5,10 @@
 - Set up version control for multiple datasets including both `CC_GENERAL.csv` and `lifestyle_dataset.csv`
 - Successfully implemented end-to-end data pipeline with Google Cloud Storage integration and tested data versioning workflows
 
-**NOTE:** Had to remove `.git` from this folder to commit it as the `LAB_3_DVC` directory was originally a nested Git repository within the parent repository. Removed the inner `.git` directory to convert it into a regular folder that could be properly tracked by the parent repository.
-
 ### Screenshots
 <img width="2504" height="1160" alt="image" src="https://github.com/user-attachments/assets/7e6cb243-9ea6-41bf-9ed4-a0de0f8f2dfc" />
 
+**NOTE:** Had to remove `.git` from this folder to commit it as the `LAB_3_DVC` directory was originally a nested Git repository within the parent repository. Removed the inner `.git` directory to convert it into a regular folder that could be properly tracked by the parent repository.
 
 ### Overview
 - [DVC](https://dvc.org/) is an open-source tool that serves as a powerful asset in the machine learning project toolkit, with a primary focus on data versioning.
