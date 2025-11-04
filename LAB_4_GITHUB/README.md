@@ -1,6 +1,6 @@
-# LAB 4: GitHub Actions CI/CD Pipeline
+# GitHub Lab
 
-## Additional Implementations Beyond Lab Requirements
+## Additional Implementations
 
 - **Text Analyzer Tool** instead of calculator - 6 functions for word count, character count, sentence analysis, word frequency, average word length, and comprehensive analysis
 - **20+ test cases** covering edge cases, parametrized tests, and error handling
@@ -11,7 +11,11 @@
 ---
 
 ## Screenshots
+<img width="953" height="360" alt="Screenshot 2025-11-03 at 7 03 41 PM" src="https://github.com/user-attachments/assets/139ec4da-3b8c-4968-9a6f-f2754772dbbe" />
 
+<img width="940" height="359" alt="Screenshot 2025-11-03 at 7 04 42 PM" src="https://github.com/user-attachments/assets/e9e0c860-afdc-44c6-82c5-c0c38f9efcf2" />
+
+<img width="840" height="402" alt="Screenshot 2025-11-03 at 7 04 30 PM" src="https://github.com/user-attachments/assets/14a45329-b227-4230-a750-6c0ad9e5b955" />
 
 ---
 
