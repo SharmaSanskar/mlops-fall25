@@ -1,0 +1,51 @@
+name: LAB4 - Testing with Pytest
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'LAB_4_GITHUB/**'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'LAB_4_GITHUB/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        cd LAB_4_GITHUB
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run tests and generate XML report
+      run: |
+        cd LAB_4_GITHUB
+        pytest test/test_pytest.py --junitxml=pytest-report.xml -v
+      continue-on-error: false
+    
+    - name: Upload test results
+      uses: actions/upload-artifact@v3
+      if: always()
+      with:
+        name: lab4-pytest-results
+        path: LAB_4_GITHUB/pytest-report.xml
+    
+    - name: Notify on success
+      if: success()
+      run: echo "✅ LAB4 pytest tests passed successfully!"
+    
+    - name: Notify on failure
+      if: failure()
+      run: echo "❌ LAB4 pytest tests failed!"
