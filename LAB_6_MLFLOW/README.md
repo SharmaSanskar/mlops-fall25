@@ -28,7 +28,7 @@
 Before starting the lab, ensure that you have the following:
 
 * Python 3.9+ environment with the required libraries installed.
-* Dataset: `creditcard.csv` (contains credit card transaction data with a `Class` column indicating fraud).
+* Dataset: `creditcard.csv` (truncated due to file size constraints).
 * MLflow server running locally for logging, model registry, and model serving.
 
 ---
