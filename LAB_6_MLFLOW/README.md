@@ -27,11 +27,7 @@
 
 Before starting the lab, ensure that you have the following:
 
-- Python 3.9+ environment with the required libraries installed:
-  ```text
-  pandas, numpy, scikit-learn, xgboost, mlflow, imbalanced-learn, requests, matplotlib, seaborn
-````
-
+* Python 3.9+ environment with the required libraries installed.
 * Dataset: `creditcard.csv` (contains credit card transaction data with a `Class` column indicating fraud).
 * MLflow server running locally for logging, model registry, and model serving.
 
