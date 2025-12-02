@@ -13,7 +13,13 @@
 ---
 
 ## Screenshots
- 
+
+<img width="856" height="775" alt="Screenshot 2025-12-01 at 7 49 06 PM" src="https://github.com/user-attachments/assets/5757c36b-d2a7-43cf-bd6a-6659c7bd9ed3" />
+<img width="1436" height="641" alt="Screenshot 2025-12-01 at 7 49 35 PM" src="https://github.com/user-attachments/assets/e547cf37-7d58-44b9-9c17-37fc047b3598" />
+<img width="1446" height="748" alt="Screenshot 2025-12-01 at 7 50 52 PM" src="https://github.com/user-attachments/assets/43f764c2-1561-4d2a-be34-a512022956bf" />
+<img width="1443" height="347" alt="Screenshot 2025-12-01 at 7 52 02 PM" src="https://github.com/user-attachments/assets/bfdbec43-9762-4991-9028-2af2f9bb3865" />
+ <img width="864" height="328" alt="Screenshot 2025-12-01 at 7 54 51 PM" src="https://github.com/user-attachments/assets/37611caa-2605-4730-acaf-4e37de137620" />
+
 
 ---
 
